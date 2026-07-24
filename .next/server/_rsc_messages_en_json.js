@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_en_json";
+exports.ids = ["_rsc_messages_en_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/en.json":
+/*!**************************!*\
+  !*** ./messages/en.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"nav":{"home":"Home","models":"Models","about":"About","news":"News","dealers":"Dealers","contact":"Contact","testDrive":"Book a test drive"},"home":{"heroTitle":"The cars of the future, today","heroSubtitle":"Experience the world of electric vehicles","exploreModels":"Explore models","featuredModels":"Featured models","latestNews":"Latest news","viewAll":"View all","heroEyebrow1":"Electric, reimagined","heroTitle2":"Engineered for range","heroSubtitle2":"Every model is built around one goal: fewer stops, more road.","heroEyebrow2":"Efficiency first","heroTitle3":"Designed to turn heads","heroSubtitle3":"Sharp lines, quiet cabins, and a driving feel you can trust.","heroEyebrow3":"Form meets function","lineupEyebrow":"The lineup","statRangeValue":"620 km","statRangeLabel":"Max range","statPowerValue":"456 hp","statPowerLabel":"Peak power","statChargeValue":"18 min","statChargeLabel":"10-80% charge","statModelsValue":"4","statModelsLabel":"Models available"},"models":{"title":"All models","priceFrom":"Price from","learnMore":"Learn more","specs":"Specifications","bookTestDrive":"Book a test drive","article":"News"},"about":{"title":"About us","text":"We manufacture modern electric vehicles and operate an official dealership network."},"news":{"title":"News"},"dealers":{"title":"Dealer centers","workHours":"Working hours","phone":"Phone"},"contact":{"title":"Get in touch","name":"Your name","phone":"Your phone","carModel":"Model of interest","message":"Message","submit":"Submit","success":"Your request has been received. We will contact you shortly.","error":"Something went wrong, please try again."},"footer":{"rights":"All rights reserved.","address":"Address","follow":"Follow us"}}');
+
+/***/ })
+
+};
+;
